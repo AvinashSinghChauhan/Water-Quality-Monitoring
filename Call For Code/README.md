@@ -1,8 +1,9 @@
 # KSHETRIKA
    ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Logo.png)
-# CONTENTS
-  # SHORT DESCRIPTION
-  # DEMO VIDEO
+# Table of Contents
+1. [SHORT DESCRIPTION]( #SHORT-DESCRIPTION)
+2. [DEMO VIDEO]( #demo-video) 
+  
   # The ARCHITECTURE
   # Long description
    [Project roadmap](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/new/master/Call%20For%20Code#project-roadmap-1)
@@ -45,3 +46,10 @@ Versioning
 ## Authors
 ## License
 ## Acknowledgments  
+# Table of Contents
+
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+## My first title
+Some text.
+## My second title
