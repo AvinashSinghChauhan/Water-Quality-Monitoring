@@ -49,7 +49,7 @@ Product Highlights:
 ## Contributing
 Versioning
 ## Authors
-![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/AUTHOR.png)
+![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/AUTHOR2.png)
 ## License
 ## Acknowledgments  
 
