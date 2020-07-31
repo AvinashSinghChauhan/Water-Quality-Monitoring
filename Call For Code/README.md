@@ -1,7 +1,7 @@
 # KSHETRIKA
    ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Logo.png)
    
-COVID-19 pandemic has forced  everyone to focus on basic nessecity of life i.e Food and Water.The time when world seemed to have frozen with the impact, it became a challenge to fulfill the demand of Food and Water.
+COVID-19 pandemic has forced  everyone to focus on basic necessity of life i.e Food and Water.The time when world seemed to have frozen with the impact, it became a challenge to fulfill the demand of Food and Water.
 Farmers are the so-called ''stewards'' of agriculture.There are number of problems faced by farmers while protecting the farm product from the time of sowing to the time it reaches the market.
 # Table of Contents
 1. [PROBLEM]( #PROBLEM) 
@@ -30,7 +30,7 @@ Product Highlights:
 1) Monitoring real time data: Helps avoiding the crop destruction and degradation of crop quality due to use of contaminated water for irrigation .Alert the User if WQ crosses tolerance.
 2) Analysis of Water Quality Behavior: Helps in understanding the behavior of Water Quality in an area throughout season.
 3) It helps improving the Quality of agriculture products and maximizing the farm production.
-4) Ease of installation: Integrating of New Devices/Sensors with Application is dynamic and effortless without making changes in application.
+4) Ease of installation: Integration of New Devices/Sensors with Application is dynamic and effortless without making changes in application.
 
 ## DEMO VIDEO
    ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Capture.JPG)
