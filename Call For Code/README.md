@@ -1,23 +1,25 @@
 # KSHETRIKA
    ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Logo.png)
 # Table of Contents
-1. [SHORT DESCRIPTION]( #SHORT-DESCRIPTION)
-2. [DEMO VIDEO]( #demo-video) 
-  
-  # The ARCHITECTURE
-  # Long description
-   [Project roadmap](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/new/master/Call%20For%20Code#project-roadmap-1)
-  # Getting started
-  Running the tests
-  Live demo
-  # Built with
-  # Contributing
-  Versioning
-  # Authors
-  # License
-  # Acknowledgments
+1. [PROBLEM]( #PROBLEM) 
+2. [SHORT DESCRIPTION]( #SHORT-DESCRIPTION)
+3. [DEMO VIDEO]( #demo-video) 
+4. [The ARCHITECTURE]( #The-ARCHITECTURE) 
+5. [Long description]( #Long-description)  
+6. [Project roadmap]( #Project-roadmap) 
+7. [Getting started]( #Getting-started)  
+8. [Running the tests]( #Running-the-tests)  
+9. [Built with]( #Built-with)  
+10. [Contributing]( #Contributing) 
+11. [Versioning]( #Versioning) 
+12. [Authors]( #Authors) 
+13. [License]( #License) 
+14. [Acknowledgments]( #Acknowledgments) 
+15. [Structure of Data Flow]( #Structure-of-Data-Flow) 
+
 ## PROBLEM:
 ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/PROBLEM.png)
+Use of contaminated or unsuitable water for irrigation is not water 
 ## SHORT DESCRIPTION
   KSHETRIK-MITRA Application provides a Cloud based Solution to the Water Quality problems faced by farmers worldwide. Its user friendly and provides an accurate water quality monitoring system.
 Product Highlights:
@@ -27,10 +29,10 @@ Product Highlights:
 4) Ease of installation: Integrating of New Devices/Sensors with Application is dynamic and effortless without making changes in application.
 
 ## DEMO VIDEO
-        [![KSHETRIKA-MITRA](http://img.youtube.com/vi/OEyPO8JLR_s&list=PLNRWU_MpW2ZF5qpP_FR7tsdEE3lzpC1S1&index=7&t=8s/0.jpg)](http://www.youtube.com/watch?v=OEyPO8JLR_s&list=PLNRWU_MpW2ZF5qpP_FR7tsdEE3lzpC1S1&index=7&t=8s)
+        [![KSHETRIKA-MITRA](http://img.youtube.com/vi/OEyPO8JLR_s/0.jpg)](http://www.youtube.com/watch?v=OEyPO8JLR_s)
 ## The ARCHITECTURE 
    ![alt text]( https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Data-flow-updated.png)
-## Structure of Data Flowing:
+## Structure of Data Flow:
 ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/DATA_STRUCTURE.png)
 ## Long description
 [long description link](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/Long%20Description.pdf)
@@ -46,10 +48,4 @@ Versioning
 ## Authors
 ## License
 ## Acknowledgments  
-# Table of Contents
 
-1. [My first title](#my-first-title)
-2. [My second title](#my-second-title)
-## My first title
-Some text.
-## My second title
