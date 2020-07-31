@@ -23,9 +23,9 @@ Farmers are the so-called ''stewards'' of agriculture.There are number of proble
 ## PROBLEM:
 ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/PROBLEM.png)
 
-Since Ground water level need to be protected,Most of the farmers depens on surface water for irrigation.A large part of surface water is contaminated .Farmers uses the Contaminated water for irrigation.This damanges the crops which results in huge loss of labour and cost.It degrades the quality of product which enters the food chain indirectly affecting health of consumers.
+Since Ground water level need to be protected,Most of the farmers depens on surface water for irrigation.A large part of surface water is contaminated .Farmers uses the Contaminated water for irrigation.This damages the crops completely which results in huge loss of labour and cost.If not damaged ,this degrades the quality of product which enters the food chain indirectly affecting health of consumers.
 ## SHORT DESCRIPTION
-  KSHETRIK-MITRA Application provides a Cloud based Solution to the Water Quality problems faced by farmers worldwide. Its user friendly and provides an accurate water quality monitoring system.
+  KSHETRIK-MITRA Application provides a Cloud based Solution to the Water Quality problems faced by farmers worldwide. It is user friendly and provides an accurate water quality monitoring system.
 Product Highlights:
 1) Monitoring real time data: Helps avoiding the crop destruction and degradation of crop quality due to use of contaminated water for irrigation .Alert the User if WQ crosses tolerance.
 2) Analysis of Water Quality Behavior: Helps in understanding the behavior of Water Quality in an area throughout season.
