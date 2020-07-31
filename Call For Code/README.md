@@ -29,23 +29,27 @@ Product Highlights:
 4) Ease of installation: Integrating of New Devices/Sensors with Application is dynamic and effortless without making changes in application.
 
 ## DEMO VIDEO
-        [![KSHETRIKA-MITRA](http://img.youtube.com/vi/OEyPO8JLR_s/0.jpg)](http://www.youtube.com/watch?v=OEyPO8JLR_s)
+   ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Capture.JPG)
+   [WATCH THE DEMO VIDEO](https://www.youtube.com/watch?v=OEyPO8JLR_s&feature=youtu.be)
 ## The ARCHITECTURE 
    ![alt text]( https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Data-flow-updated.png)
 ## Structure of Data Flow:
 ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/DATA_STRUCTURE.png)
 ## Long description
-[long description link](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/Long%20Description.pdf)
+[long description link](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/Documents/Long%20Description.pdf)
 ## Project roadmap
   ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/ROADMAP.png)
 ## Getting started
+ [Starting_with_KSHETRIK-MITRA ](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/Documents/Starting_with_KSHETRIK-MITRA.pdf)
 ## Running the tests
+ [Testing-KSHETRIK-MITRA](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/Documents/Testing-KSHETRIK-MITRA.pdf)
 ## Live demo
   [Click here to start the Application](https://node-red-vwzba.eu-gb.mybluemix.net/ui/#!/0?socketid=0YnH0HamOe7fAMXXAAFF)
 ## Built with
 ## Contributing
 Versioning
 ## Authors
+![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/AUTHOR.png)
 ## License
 ## Acknowledgments  
 
