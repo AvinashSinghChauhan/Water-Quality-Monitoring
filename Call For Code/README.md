@@ -57,7 +57,7 @@ Product Highlights:
 * [ESP8266 and DHT11](https://binnes.github.io/esp8266Workshop/part1/)
 
 ## Authors
-![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/AUTHOR2.png)
+![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/AUTHOR.png)
 ## License
  This project is licensed under the Apache 2 License - see the [LICENSE](https://github.com/Code-and-Response/Project-Sample/blob/master/LICENSE) for more details.
  
