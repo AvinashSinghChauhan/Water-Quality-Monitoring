@@ -7,18 +7,18 @@ Farmers are the so-called ''stewards'' of agriculture.There are number of proble
 1. [PROBLEM]( #PROBLEM) 
 2. [SHORT DESCRIPTION]( #SHORT-DESCRIPTION)
 3. [DEMO VIDEO]( #demo-video) 
-4. [The ARCHITECTURE]( #The-ARCHITECTURE) 
-5. [Long description]( #Long-description)  
-6. [Project roadmap]( #Project-roadmap) 
-7. [Getting started]( #Getting-started)  
-8. [Running the tests]( #Running-the-tests)  
-9. [Built with]( #Built-with)  
-10. [Contributing]( #Contributing) 
-11. [Versioning]( #Versioning) 
+4. [The ARCHITECTURE]( #The-ARCHITECTURE)
+5. [Long description]( #Long-description) 
+6. [Structure of Data Flow]( #Structure-of-Data-Flow) 
+7. [Project roadmap]( #Project-roadmap) 
+8. [Getting started]( #Getting-started)  
+9. [Running the tests]( #Running-the-tests)
+10.[Live demo](#Live-demo)
+11. [Built with]( #Built-with)  
 12. [Authors]( #Authors) 
 13. [License]( #License) 
-14. [Acknowledgments]( #Acknowledgments) 
-15. [Structure of Data Flow]( #Structure-of-Data-Flow) 
+ 
+
 
 ## PROBLEM:
 ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/PROBLEM.png)
@@ -37,10 +37,13 @@ Product Highlights:
    [WATCH THE DEMO VIDEO](https://www.youtube.com/watch?v=OEyPO8JLR_s&feature=youtu.be)
 ## The ARCHITECTURE 
    ![alt text]( https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/Data-flow-updated.png)
+   
+## Long description
+[long description link](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/Documents/Long%20Description.pdf) 
+
 ## Structure of Data Flow:
 ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/DATA_STRUCTURE.png)
-## Long description
-[long description link](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/Documents/Long%20Description.pdf)
+
 ## Project roadmap
   ![alt text](https://github.com/AvinashSinghChauhan/Water-Quality-Monitoring/blob/master/Call%20For%20Code/images/ROADMAP.png)
 ## Getting started
@@ -50,6 +53,7 @@ Product Highlights:
 ## Live demo
   [Click here to start the Application](https://node-red-vwzba.eu-gb.mybluemix.net/ui/#!/0?socketid=0YnH0HamOe7fAMXXAAFF)
   This will work till IBM Cloud services are active.
+  Note:For Data analysis ,Do include 17-18th July in the time range,we have data record of that day only
 ## Built with
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results)
 * [Node RED App](https://cloud.ibm.com/catalog?search=Node-RED%20App#search_results)
